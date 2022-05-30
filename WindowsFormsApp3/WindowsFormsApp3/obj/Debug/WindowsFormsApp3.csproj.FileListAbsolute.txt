@@ -1,0 +1,15 @@
+D:\新建文件夹 (2)\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form6.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form7.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\DELL\Desktop\各作业 (1)\c#\C#期末\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
